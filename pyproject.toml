@@ -1,0 +1,12 @@
+[project]
+name = "jupyterproject"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.5.6",
+    "plotly>=6.6.0",
+    "grimp (>=3.14,<4.0)",
+    "radon>=6.0.1",
+    "polars>=1.39.3",
+    "pandas>=3.0.2",
+]

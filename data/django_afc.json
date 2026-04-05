@@ -1,0 +1,6316 @@
+[
+  {
+    "id": "django/conf/locale/uz.py",
+    "label": "uz.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/log.py",
+    "label": "log.py",
+    "parent": "django/utils",
+    "importers": 9,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/postgres/validators.py",
+    "label": "validators.py",
+    "parent": "django/contrib/postgres",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/sq.py",
+    "label": "sq.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/az/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/az",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/bn.py",
+    "label": "bn.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/forms/formsets.py",
+    "label": "formsets.py",
+    "parent": "django/forms",
+    "importers": 4,
+    "imports": 8
+  },
+  {
+    "id": "django/shortcuts.py",
+    "label": "shortcuts.py",
+    "parent": "django",
+    "importers": 5,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/version.py",
+    "label": "version.py",
+    "parent": "django/utils",
+    "importers": 24,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/lookups.py",
+    "label": "lookups.py",
+    "parent": "django/db/models",
+    "importers": 17,
+    "imports": 9
+  },
+  {
+    "id": "django/conf/locale/nn.py",
+    "label": "nn.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/linestring.py",
+    "label": "linestring.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 4,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/operations.py",
+    "label": "operations.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 1,
+    "imports": 18
+  },
+  {
+    "id": "django/contrib/humanize/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/humanize",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/template/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/template",
+    "importers": 6,
+    "imports": 0
+  },
+  {
+    "id": "django/template/library.py",
+    "label": "library.py",
+    "parent": "django/template",
+    "importers": 7,
+    "imports": 4
+  },
+  {
+    "id": "django/db/backends/postgresql/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 2,
+    "imports": 16
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes.py",
+    "label": "prototypes.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 6,
+    "imports": 5
+  },
+  {
+    "id": "django/urls/converters.py",
+    "label": "converters.py",
+    "parent": "django/urls",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/templatetags.py",
+    "label": "templatetags.py",
+    "parent": "django",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/redirects/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/redirects",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/operations.py",
+    "label": "operations.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 1,
+    "imports": 10
+  },
+  {
+    "id": "django/conf/locale/hr.py",
+    "label": "hr.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/db/migrations",
+    "importers": 7,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/urls.py",
+    "label": "urls.py",
+    "parent": "django/conf",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/views/decorators.py",
+    "label": "decorators.py",
+    "parent": "django/contrib/admin/views",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/db/models/fields.py",
+    "label": "fields.py",
+    "parent": "django/contrib/gis/db/models",
+    "importers": 4,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/syndication.py",
+    "label": "syndication.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/options.py",
+    "label": "options.py",
+    "parent": "django/contrib/admin",
+    "importers": 10,
+    "imports": 36
+  },
+  {
+    "id": "django/conf/locale/fr_CH/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fr_CH",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/serializers/python.py",
+    "label": "python.py",
+    "parent": "django/core/serializers",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/csp.py",
+    "label": "csp.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sites/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/sites",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management/commands/dumpdata.py",
+    "label": "dumpdata.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/db/models/fields.py",
+    "label": "fields.py",
+    "parent": "django/db/models",
+    "importers": 20,
+    "imports": 22
+  },
+  {
+    "id": "django/core/cache/backends/filebased.py",
+    "label": "filebased.py",
+    "parent": "django/core/cache/backends",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/fr_BE/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fr_BE",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/flatpages/sitemaps.py",
+    "label": "sitemaps.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/utils/translation/trans_null.py",
+    "label": "trans_null.py",
+    "parent": "django/utils/translation",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/core/cache/backends/redis.py",
+    "label": "redis.py",
+    "parent": "django/core/cache/backends",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/auth/context_processors.py",
+    "label": "context_processors.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/db/backends/oracle/schema.py",
+    "label": "schema.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/es_MX/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/es_MX",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/fr_CH.py",
+    "label": "fr_CH.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/flatpages.py",
+    "label": "flatpages.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes/srs.py",
+    "label": "srs.py",
+    "parent": "django/contrib/gis/gdal/prototypes",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/messages/constants.py",
+    "label": "constants.py",
+    "parent": "django/contrib/messages",
+    "importers": 5,
+    "imports": 0
+  },
+  {
+    "id": "django/core/mail/backends/base.py",
+    "label": "base.py",
+    "parent": "django/core/mail/backends",
+    "importers": 4,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/zh_Hant.py",
+    "label": "zh_Hant.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/auth/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/auth",
+    "importers": 8,
+    "imports": 12
+  },
+  {
+    "id": "django/db/backends/postgresql/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 3,
+    "imports": 3
+  },
+  {
+    "id": "django/core/management/commands/testserver.py",
+    "label": "testserver.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/sites/requests.py",
+    "label": "requests.py",
+    "parent": "django/contrib/sites",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ht/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ht",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/duration.py",
+    "label": "duration.py",
+    "parent": "django/utils",
+    "importers": 6,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/operations/special.py",
+    "label": "special.py",
+    "parent": "django/db/migrations/operations",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/__main__.py",
+    "label": "__main__.py",
+    "parent": "django",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/utils/deprecation.py",
+    "label": "deprecation.py",
+    "parent": "django/utils",
+    "importers": 29,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/gdal/driver.py",
+    "label": "driver.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/db/backends/sqlite3/_functions.py",
+    "label": "_functions.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/admin/helpers.py",
+    "label": "helpers.py",
+    "parent": "django/contrib/admin",
+    "importers": 2,
+    "imports": 13
+  },
+  {
+    "id": "django/utils/lorem_ipsum.py",
+    "label": "lorem_ipsum.py",
+    "parent": "django/utils",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/flatpages/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/flatpages/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/admin/migrations",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/es.py",
+    "label": "es.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/fields/jsonb.py",
+    "label": "jsonb.py",
+    "parent": "django/contrib/postgres/fields",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/utils/cache.py",
+    "label": "cache.py",
+    "parent": "django/utils",
+    "importers": 9,
+    "imports": 8
+  },
+  {
+    "id": "django/utils/text.py",
+    "label": "text.py",
+    "parent": "django/utils",
+    "importers": 21,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/postgres/aggregates/statistics.py",
+    "label": "statistics.py",
+    "parent": "django/contrib/postgres/aggregates",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sessions/backends/db.py",
+    "label": "db.py",
+    "parent": "django/contrib/sessions/backends",
+    "importers": 2,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/admin/widgets.py",
+    "label": "widgets.py",
+    "parent": "django/contrib/admin",
+    "importers": 1,
+    "imports": 13
+  },
+  {
+    "id": "django/contrib/sessions/backends/cached_db.py",
+    "label": "cached_db.py",
+    "parent": "django/contrib/sessions/backends",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/tk/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/tk",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/admin",
+    "importers": 3,
+    "imports": 8
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes/geom.py",
+    "label": "geom.py",
+    "parent": "django/contrib/gis/gdal/prototypes",
+    "importers": 3,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/pt.py",
+    "label": "pt.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/postgresql/compiler.py",
+    "label": "compiler.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/db/backends/mysql/schema.py",
+    "label": "schema.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/bn/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/bn",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/sqlmigrate.py",
+    "label": "sqlmigrate.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/sessions/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/sessions",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/contenttypes/checks.py",
+    "label": "checks.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/ddl_references.py",
+    "label": "ddl_references.py",
+    "parent": "django/db/backends",
+    "importers": 4,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/safestring.py",
+    "label": "safestring.py",
+    "parent": "django/utils",
+    "importers": 20,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/messages/context_processors.py",
+    "label": "context_processors.py",
+    "parent": "django/contrib/messages",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/urls/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/urls",
+    "importers": 4,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/gdal/envelope.py",
+    "label": "envelope.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 5,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/messages/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/messages",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/gdal/libgdal.py",
+    "label": "libgdal.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 7,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/base/operations.py",
+    "label": "operations.py",
+    "parent": "django/db/backends/base",
+    "importers": 5,
+    "imports": 9
+  },
+  {
+    "id": "django/conf/locale/sl/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/sl",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/functions/window.py",
+    "label": "window.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/management/commands/changepassword.py",
+    "label": "changepassword.py",
+    "parent": "django/contrib/auth/management/commands",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/flatpages/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/datastructures.py",
+    "label": "datastructures.py",
+    "parent": "django/utils",
+    "importers": 16,
+    "imports": 0
+  },
+  {
+    "id": "django/http/response.py",
+    "label": "response.py",
+    "parent": "django/http",
+    "importers": 2,
+    "imports": 12
+  },
+  {
+    "id": "django/contrib/messages/storage/fallback.py",
+    "label": "fallback.py",
+    "parent": "django/contrib/messages/storage",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth.py",
+    "label": "auth.py",
+    "parent": "django/contrib",
+    "importers": 20,
+    "imports": 10
+  },
+  {
+    "id": "django/core/checks/security/base.py",
+    "label": "base.py",
+    "parent": "django/core/checks/security",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ms.py",
+    "label": "ms.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template.py",
+    "label": "template.py",
+    "parent": "django",
+    "importers": 34,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/postgres/search.py",
+    "label": "search.py",
+    "parent": "django/contrib/postgres",
+    "importers": 1,
+    "imports": 7
+  },
+  {
+    "id": "django/templatetags/static.py",
+    "label": "static.py",
+    "parent": "django/templatetags",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/db/backends/postgresql/creation.py",
+    "label": "creation.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/db/backends/utils.py",
+    "label": "utils.py",
+    "parent": "django/db/backends",
+    "importers": 17,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/postgres/aggregates/general.py",
+    "label": "general.py",
+    "parent": "django/contrib/postgres/aggregates",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/db/models/fields/mixins.py",
+    "label": "mixins.py",
+    "parent": "django/db/models/fields",
+    "importers": 6,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/urls.py",
+    "label": "urls.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/template/base.py",
+    "label": "base.py",
+    "parent": "django/template",
+    "importers": 9,
+    "imports": 12
+  },
+  {
+    "id": "django/db/backends/base/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends/base",
+    "importers": 8,
+    "imports": 10
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes/ds.py",
+    "label": "ds.py",
+    "parent": "django/contrib/gis/gdal/prototypes",
+    "importers": 5,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/postgresql/features.py",
+    "label": "features.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 3,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/bs/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/bs",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/core",
+    "importers": 159,
+    "imports": 1
+  },
+  {
+    "id": "django/core/checks/translation.py",
+    "label": "translation.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/middleware/http.py",
+    "label": "http.py",
+    "parent": "django/middleware",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ja.py",
+    "label": "ja.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/mysql/validation.py",
+    "label": "validation.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/tasks/backends/dummy.py",
+    "label": "dummy.py",
+    "parent": "django/tasks/backends",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/admin/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/admin",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/executor.py",
+    "label": "executor.py",
+    "parent": "django/db/migrations",
+    "importers": 2,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/lv/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/lv",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/serializer.py",
+    "label": "serializer.py",
+    "parent": "django/db/migrations",
+    "importers": 2,
+    "imports": 8
+  },
+  {
+    "id": "django/db/models/fields/related.py",
+    "label": "related.py",
+    "parent": "django/db/models/fields",
+    "importers": 6,
+    "imports": 21
+  },
+  {
+    "id": "django/core/management/commands/inspectdb.py",
+    "label": "inspectdb.py",
+    "parent": "django/core/management/commands",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/serializers/geojson.py",
+    "label": "geojson.py",
+    "parent": "django/contrib/gis/serializers",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/apps.py",
+    "label": "apps.py",
+    "parent": "django",
+    "importers": 81,
+    "imports": 2
+  },
+  {
+    "id": "django/db/backends/postgresql/client.py",
+    "label": "client.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/ro/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ro",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/dummy.py",
+    "label": "dummy.py",
+    "parent": "django/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/utils.py",
+    "label": "utils.py",
+    "parent": "django/db/migrations",
+    "importers": 7,
+    "imports": 1
+  },
+  {
+    "id": "django/views/decorators/clickjacking.py",
+    "label": "clickjacking.py",
+    "parent": "django/views/decorators",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/en_GB.py",
+    "label": "en_GB.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/views/csrf.py",
+    "label": "csrf.py",
+    "parent": "django/views",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/cy.py",
+    "label": "cy.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/contrib/admin",
+    "importers": 6,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/ta/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ta",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/sqlite3/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/db/backends/sqlite3/operations.py",
+    "label": "operations.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 2,
+    "imports": 11
+  },
+  {
+    "id": "django/conf/locale/ky/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ky",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/views/decorators.py",
+    "label": "decorators.py",
+    "parent": "django/views",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/raster/const.py",
+    "label": "const.py",
+    "parent": "django/contrib/gis/gdal/raster",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/graph.py",
+    "label": "graph.py",
+    "parent": "django/db/migrations",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/fr_CA.py",
+    "label": "fr_CA.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/templatetags/log.py",
+    "label": "log.py",
+    "parent": "django/contrib/admin/templatetags",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/core/management/commands/flush.py",
+    "label": "flush.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/sessions/backends/cache.py",
+    "label": "cache.py",
+    "parent": "django/contrib/sessions/backends",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/staticfiles/management/commands/runserver.py",
+    "label": "runserver.py",
+    "parent": "django/contrib/staticfiles/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/urls/resolvers.py",
+    "label": "resolvers.py",
+    "parent": "django/urls",
+    "importers": 4,
+    "imports": 14
+  },
+  {
+    "id": "django/contrib/auth/migrations/0010_alter_group_name_max_length.py",
+    "label": "0010_alter_group_name_max_length.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/functions.py",
+    "label": "functions.py",
+    "parent": "django/db/models",
+    "importers": 20,
+    "imports": 7
+  },
+  {
+    "id": "django/core/checks/async_checks.py",
+    "label": "async_checks.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/pl.py",
+    "label": "pl.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/asyncio.py",
+    "label": "asyncio.py",
+    "parent": "django/utils",
+    "importers": 5,
+    "imports": 1
+  },
+  {
+    "id": "django/template/loaders.py",
+    "label": "loaders.py",
+    "parent": "django/template",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/serializers/base.py",
+    "label": "base.py",
+    "parent": "django/core/serializers",
+    "importers": 7,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/regex_helper.py",
+    "label": "regex_helper.py",
+    "parent": "django/utils",
+    "importers": 43,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/staticfiles.py",
+    "label": "staticfiles.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/operations/base.py",
+    "label": "base.py",
+    "parent": "django/db/migrations/operations",
+    "importers": 5,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/fr_BE.py",
+    "label": "fr_BE.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/lt/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/lt",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/cache/backends/dummy.py",
+    "label": "dummy.py",
+    "parent": "django/core/cache/backends",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/core/serializers/jsonl.py",
+    "label": "jsonl.py",
+    "parent": "django/core/serializers",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/db/models/functions/json.py",
+    "label": "json.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/template/backends/utils.py",
+    "label": "utils.py",
+    "parent": "django/template/backends",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/core/management/commands/sqlsequencereset.py",
+    "label": "sqlsequencereset.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/admin",
+    "importers": 11,
+    "imports": 20
+  },
+  {
+    "id": "django/views/generic/dates.py",
+    "label": "dates.py",
+    "parent": "django/views/generic",
+    "importers": 1,
+    "imports": 10
+  },
+  {
+    "id": "django/contrib/auth/hashers.py",
+    "label": "hashers.py",
+    "parent": "django/contrib/auth",
+    "importers": 4,
+    "imports": 8
+  },
+  {
+    "id": "django/conf/locale/km.py",
+    "label": "km.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template/loader.py",
+    "label": "loader.py",
+    "parent": "django/template",
+    "importers": 11,
+    "imports": 2
+  },
+  {
+    "id": "django/template/backends/django.py",
+    "label": "django.py",
+    "parent": "django/template/backends",
+    "importers": 5,
+    "imports": 8
+  },
+  {
+    "id": "django/db/backends/oracle/creation.py",
+    "label": "creation.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/core/cache/backends/memcached.py",
+    "label": "memcached.py",
+    "parent": "django/core/cache/backends",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/de_CH/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/de_CH",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/checks/files.py",
+    "label": "files.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/core/mail/backends/smtp.py",
+    "label": "smtp.py",
+    "parent": "django/core/mail/backends",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/db/backends/oracle/validation.py",
+    "label": "validation.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/enums.py",
+    "label": "enums.py",
+    "parent": "django/db/models",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/views/decorators/csrf.py",
+    "label": "csrf.py",
+    "parent": "django/views/decorators",
+    "importers": 6,
+    "imports": 2
+  },
+  {
+    "id": "django/core/handlers.py",
+    "label": "handlers.py",
+    "parent": "django/core",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/mysql/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/admin/options.py",
+    "label": "options.py",
+    "parent": "django/contrib/gis/admin",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/nl.py",
+    "label": "nl.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/middleware.py",
+    "label": "middleware.py",
+    "parent": "django",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/files/locks.py",
+    "label": "locks.py",
+    "parent": "django/core/files",
+    "importers": 4,
+    "imports": 0
+  },
+  {
+    "id": "django/tasks/checks.py",
+    "label": "checks.py",
+    "parent": "django/tasks",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/translation.py",
+    "label": "translation.py",
+    "parent": "django/utils",
+    "importers": 101,
+    "imports": 9
+  },
+  {
+    "id": "django/db/migrations/migration.py",
+    "label": "migration.py",
+    "parent": "django/db/migrations",
+    "importers": 4,
+    "imports": 3
+  },
+  {
+    "id": "django/core/files/temp.py",
+    "label": "temp.py",
+    "parent": "django/core/files",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/sv.py",
+    "label": "sv.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/adapter.py",
+    "label": "adapter.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admindocs/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/admindocs",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/de/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/de",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/hi.py",
+    "label": "hi.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/auth/handlers/modwsgi.py",
+    "label": "modwsgi.py",
+    "parent": "django/contrib/auth/handlers",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/tasks/signals.py",
+    "label": "signals.py",
+    "parent": "django/tasks",
+    "importers": 3,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/contenttypes/management/commands/remove_stale_contenttypes.py",
+    "label": "remove_stale_contenttypes.py",
+    "parent": "django/contrib/contenttypes/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/staticfiles/management/commands/findstatic.py",
+    "label": "findstatic.py",
+    "parent": "django/contrib/staticfiles/management/commands",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/template/autoreload.py",
+    "label": "autoreload.py",
+    "parent": "django/template",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/de.py",
+    "label": "de.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sites/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/sites",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/template/defaultfilters.py",
+    "label": "defaultfilters.py",
+    "parent": "django/template",
+    "importers": 5,
+    "imports": 10
+  },
+  {
+    "id": "django/db/models/sql/where.py",
+    "label": "where.py",
+    "parent": "django/db/models/sql",
+    "importers": 5,
+    "imports": 7
+  },
+  {
+    "id": "django/db/models/fields/tuple_lookups.py",
+    "label": "tuple_lookups.py",
+    "parent": "django/db/models/fields",
+    "importers": 3,
+    "imports": 7
+  },
+  {
+    "id": "django/db/backends.py",
+    "label": "backends.py",
+    "parent": "django/db",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/eo.py",
+    "label": "eo.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/checks/security.py",
+    "label": "security.py",
+    "parent": "django/core/checks",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/encoding.py",
+    "label": "encoding.py",
+    "parent": "django/utils",
+    "importers": 40,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sessions/management/commands.py",
+    "label": "commands.py",
+    "parent": "django/contrib/sessions/management",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 0,
+    "imports": 11
+  },
+  {
+    "id": "django/conf/locale/es_AR.py",
+    "label": "es_AR.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 0,
+    "imports": 8
+  },
+  {
+    "id": "django/contrib/gis/db/backends/base/features.py",
+    "label": "features.py",
+    "parent": "django/contrib/gis/db/backends/base",
+    "importers": 4,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management/templates.py",
+    "label": "templates.py",
+    "parent": "django/core/management",
+    "importers": 2,
+    "imports": 8
+  },
+  {
+    "id": "django/test/runner.py",
+    "label": "runner.py",
+    "parent": "django/test",
+    "importers": 1,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/urls/static.py",
+    "label": "static.py",
+    "parent": "django/conf/urls",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/es_NI.py",
+    "label": "es_NI.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/collections.py",
+    "label": "collections.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/db/backends/base/client.py",
+    "label": "client.py",
+    "parent": "django/db/backends/base",
+    "importers": 5,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/point.py",
+    "label": "point.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 5,
+    "imports": 4
+  },
+  {
+    "id": "django/views.py",
+    "label": "views.py",
+    "parent": "django",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/db/backends/base/operations.py",
+    "label": "operations.py",
+    "parent": "django/contrib/gis/db/backends/base",
+    "importers": 5,
+    "imports": 5
+  },
+  {
+    "id": "django/core/management/commands/makemessages.py",
+    "label": "makemessages.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 11
+  },
+  {
+    "id": "django/contrib/auth/migrations/0002_alter_permission_name_max_length.py",
+    "label": "0002_alter_permission_name_max_length.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/da.py",
+    "label": "da.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/dbshell.py",
+    "label": "dbshell.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management/commands/runserver.py",
+    "label": "runserver.py",
+    "parent": "django/core/management/commands",
+    "importers": 1,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/eu.py",
+    "label": "eu.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/xmlutils.py",
+    "label": "xmlutils.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/fields/composite.py",
+    "label": "composite.py",
+    "parent": "django/db/models/fields",
+    "importers": 9,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/postgres/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/postgres",
+    "importers": 0,
+    "imports": 14
+  },
+  {
+    "id": "django/conf/locale/es_PR.py",
+    "label": "es_PR.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/optimizemigration.py",
+    "label": "optimizemigration.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 9
+  },
+  {
+    "id": "django/template/response.py",
+    "label": "response.py",
+    "parent": "django/template",
+    "importers": 6,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/fa/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fa",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/views/generic/edit.py",
+    "label": "edit.py",
+    "parent": "django/views/generic",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/templatetags/i18n.py",
+    "label": "i18n.py",
+    "parent": "django/templatetags",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/core/checks.py",
+    "label": "checks.py",
+    "parent": "django/core",
+    "importers": 47,
+    "imports": 15
+  },
+  {
+    "id": "django/db/backends/oracle/client.py",
+    "label": "client.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/bs.py",
+    "label": "bs.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite.py",
+    "label": "spatialite.py",
+    "parent": "django/contrib/gis/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/templatetags/admin_list.py",
+    "label": "admin_list.py",
+    "parent": "django/contrib/admin/templatetags",
+    "importers": 2,
+    "imports": 17
+  },
+  {
+    "id": "django/db/transaction.py",
+    "label": "transaction.py",
+    "parent": "django/db",
+    "importers": 25,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/es_PR/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/es_PR",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geoip2.py",
+    "label": "geoip2.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/kn/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/kn",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admindocs/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/admindocs",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/contenttypes/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/contenttypes/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/db/utils.py",
+    "label": "utils.py",
+    "parent": "django/db",
+    "importers": 6,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/messages/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/messages",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/template/utils.py",
+    "label": "utils.py",
+    "parent": "django/template",
+    "importers": 4,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/http.py",
+    "label": "http.py",
+    "parent": "django/utils",
+    "importers": 26,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ug.py",
+    "label": "ug.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/mail.py",
+    "label": "mail.py",
+    "parent": "django/core",
+    "importers": 9,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/postgres/indexes.py",
+    "label": "indexes.py",
+    "parent": "django/contrib/postgres",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/measure.py",
+    "label": "measure.py",
+    "parent": "django/contrib/gis",
+    "importers": 7,
+    "imports": 0
+  },
+  {
+    "id": "django/tasks/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/tasks",
+    "importers": 4,
+    "imports": 1
+  },
+  {
+    "id": "django/forms/forms.py",
+    "label": "forms.py",
+    "parent": "django/forms",
+    "importers": 3,
+    "imports": 8
+  },
+  {
+    "id": "django/forms.py",
+    "label": "forms.py",
+    "parent": "django",
+    "importers": 18,
+    "imports": 7
+  },
+  {
+    "id": "django/core/mail/backends/dummy.py",
+    "label": "dummy.py",
+    "parent": "django/core/mail/backends",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/es_CO/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/es_CO",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/fields/reverse_related.py",
+    "label": "reverse_related.py",
+    "parent": "django/db/models/fields",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/core/files/images.py",
+    "label": "images.py",
+    "parent": "django/core/files",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/db/migrations/optimizer.py",
+    "label": "optimizer.py",
+    "parent": "django/db/migrations",
+    "importers": 4,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/auth/forms.py",
+    "label": "forms.py",
+    "parent": "django/contrib/auth",
+    "importers": 4,
+    "imports": 15
+  },
+  {
+    "id": "django/contrib/auth/management/commands.py",
+    "label": "commands.py",
+    "parent": "django/contrib/auth/management",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/base/features.py",
+    "label": "features.py",
+    "parent": "django/db/backends/base",
+    "importers": 5,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ml/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ml",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/bg.py",
+    "label": "bg.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/checks/model_checks.py",
+    "label": "model_checks.py",
+    "parent": "django/core/checks",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/ru/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ru",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ar.py",
+    "label": "ar.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/messages/storage/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/messages/storage",
+    "importers": 5,
+    "imports": 4
+  },
+  {
+    "id": "django/core/checks/security/sessions.py",
+    "label": "sessions.py",
+    "parent": "django/core/checks/security",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/sessions/backends/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/sessions/backends",
+    "importers": 5,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/auth/validators.py",
+    "label": "validators.py",
+    "parent": "django/contrib/auth",
+    "importers": 5,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/uk/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/uk",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/libgeos.py",
+    "label": "libgeos.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 14,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/da/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/da",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/syndication/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/syndication",
+    "importers": 1,
+    "imports": 11
+  },
+  {
+    "id": "django/db/backends/postgresql.py",
+    "label": "postgresql.py",
+    "parent": "django/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/te.py",
+    "label": "te.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ky.py",
+    "label": "ky.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/misc.py",
+    "label": "misc.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/core/management/commands/check.py",
+    "label": "check.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/gis/gdal.py",
+    "label": "gdal.py",
+    "parent": "django/contrib/gis",
+    "importers": 15,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/staticfiles/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/flatpages/templatetags.py",
+    "label": "templatetags.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/utils.py",
+    "label": "utils.py",
+    "parent": "django/db/models",
+    "importers": 9,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/sites.py",
+    "label": "sites.py",
+    "parent": "django/contrib/admin",
+    "importers": 3,
+    "imports": 27
+  },
+  {
+    "id": "django/contrib/gis/db/backends/base/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/gis/db/backends/base",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/gdal/geomtype.py",
+    "label": "geomtype.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sites/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/sites",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/choices.py",
+    "label": "choices.py",
+    "parent": "django/utils",
+    "importers": 4,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/sql.py",
+    "label": "sql.py",
+    "parent": "django/db/models",
+    "importers": 9,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/redirects/migrations/0002_alter_redirect_new_path_help_text.py",
+    "label": "0002_alter_redirect_new_path_help_text.py",
+    "parent": "django/contrib/redirects/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/autoreload.py",
+    "label": "autoreload.py",
+    "parent": "django/utils",
+    "importers": 5,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/en_CA/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/en_CA",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/copy.py",
+    "label": "copy.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/features.py",
+    "label": "features.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/lv.py",
+    "label": "lv.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ta.py",
+    "label": "ta.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/oracle/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 3,
+    "imports": 17
+  },
+  {
+    "id": "django/conf/locale/sl.py",
+    "label": "sl.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/mail/message.py",
+    "label": "message.py",
+    "parent": "django/core/mail",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/views/generic/detail.py",
+    "label": "detail.py",
+    "parent": "django/views/generic",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/uz/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/uz",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/middleware/common.py",
+    "label": "common.py",
+    "parent": "django/middleware",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/conf.py",
+    "label": "conf.py",
+    "parent": "django",
+    "importers": 165,
+    "imports": 5
+  },
+  {
+    "id": "django.py",
+    "label": "django.py",
+    "parent": "",
+    "importers": 16,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/tg/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/tg",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/auth/signals.py",
+    "label": "signals.py",
+    "parent": "django/contrib/auth",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/sitemaps.py",
+    "label": "sitemaps.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/utils/tree.py",
+    "label": "tree.py",
+    "parent": "django/utils",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/contenttypes/management/commands.py",
+    "label": "commands.py",
+    "parent": "django/contrib/contenttypes/management",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/tasks/base.py",
+    "label": "base.py",
+    "parent": "django/tasks",
+    "importers": 5,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/coordseq.py",
+    "label": "coordseq.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/forms.py",
+    "label": "forms.py",
+    "parent": "django/contrib/gis",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/core/checks/compatibility.py",
+    "label": "compatibility.py",
+    "parent": "django/core/checks",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/test.py",
+    "label": "test.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/ckb.py",
+    "label": "ckb.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admindocs/urls.py",
+    "label": "urls.py",
+    "parent": "django/contrib/admindocs",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/pgraster.py",
+    "label": "pgraster.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/sql/constants.py",
+    "label": "constants.py",
+    "parent": "django/db/models/sql",
+    "importers": 6,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/postgresql/schema.py",
+    "label": "schema.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/it/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/it",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/constraints.py",
+    "label": "constraints.py",
+    "parent": "django/contrib/postgres",
+    "importers": 0,
+    "imports": 10
+  },
+  {
+    "id": "django/contrib/sessions/base_session.py",
+    "label": "base_session.py",
+    "parent": "django/contrib/sessions",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/core/checks/commands.py",
+    "label": "commands.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/management.py",
+    "label": "management.py",
+    "parent": "django/contrib/auth",
+    "importers": 3,
+    "imports": 9
+  },
+  {
+    "id": "django/conf/locale/hu.py",
+    "label": "hu.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/mn.py",
+    "label": "mn.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ko/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ko",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sessions/management/commands/clearsessions.py",
+    "label": "clearsessions.py",
+    "parent": "django/contrib/sessions/management/commands",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/html.py",
+    "label": "html.py",
+    "parent": "django/utils",
+    "importers": 22,
+    "imports": 10
+  },
+  {
+    "id": "django/contrib/sessions/backends.py",
+    "label": "backends.py",
+    "parent": "django/contrib/sessions",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/staticfiles/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/messages/storage/cookie.py",
+    "label": "cookie.py",
+    "parent": "django/contrib/messages/storage",
+    "importers": 2,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/sessions/exceptions.py",
+    "label": "exceptions.py",
+    "parent": "django/contrib/sessions",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/template/engine.py",
+    "label": "engine.py",
+    "parent": "django/template",
+    "importers": 5,
+    "imports": 9
+  },
+  {
+    "id": "django/conf/locale/ja/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ja",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/state.py",
+    "label": "state.py",
+    "parent": "django/db/migrations",
+    "importers": 5,
+    "imports": 14
+  },
+  {
+    "id": "django/contrib/auth/migrations/0006_require_contenttypes_0002.py",
+    "label": "0006_require_contenttypes_0002.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/admin/templatetags/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/admin/templatetags",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/admindocs.py",
+    "label": "admindocs.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/views/decorators/debug.py",
+    "label": "debug.py",
+    "parent": "django/views/decorators",
+    "importers": 5,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/ptr.py",
+    "label": "ptr.py",
+    "parent": "django/contrib/gis",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/fields/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/postgres/fields",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/prepared.py",
+    "label": "prepared.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/const.py",
+    "label": "const.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/bg/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/bg",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/uk.py",
+    "label": "uk.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/functions.py",
+    "label": "functions.py",
+    "parent": "django/contrib/postgres",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/db/models/functions.py",
+    "label": "functions.py",
+    "parent": "django/contrib/gis/db/models",
+    "importers": 3,
+    "imports": 9
+  },
+  {
+    "id": "django/utils/translation/reloader.py",
+    "label": "reloader.py",
+    "parent": "django/utils/translation",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/core/mail/backends.py",
+    "label": "backends.py",
+    "parent": "django/core/mail",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/sr_Latn.py",
+    "label": "sr_Latn.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/migrate.py",
+    "label": "migrate.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 11
+  },
+  {
+    "id": "django/conf/locale/fr_CA/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fr_CA",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ko.py",
+    "label": "ko.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/sql.py",
+    "label": "sql.py",
+    "parent": "django/core/management",
+    "importers": 4,
+    "imports": 2
+  },
+  {
+    "id": "django/core/files/utils.py",
+    "label": "utils.py",
+    "parent": "django/core/files",
+    "importers": 5,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/el/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/el",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes/raster.py",
+    "label": "raster.py",
+    "parent": "django/contrib/gis/gdal/prototypes",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/tasks/backends/immediate.py",
+    "label": "immediate.py",
+    "parent": "django/tasks/backends",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/utils/ogrinspect.py",
+    "label": "ogrinspect.py",
+    "parent": "django/contrib/gis/utils",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/http.py",
+    "label": "http.py",
+    "parent": "django",
+    "importers": 47,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/sessions.py",
+    "label": "sessions.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/errcheck.py",
+    "label": "errcheck.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 7,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management.py",
+    "label": "management.py",
+    "parent": "django/core",
+    "importers": 10,
+    "imports": 7
+  },
+  {
+    "id": "django/template/loaders/cached.py",
+    "label": "cached.py",
+    "parent": "django/template/loaders",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ga/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ga",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/tasks/backends/base.py",
+    "label": "base.py",
+    "parent": "django/tasks/backends",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/db/models/functions/text.py",
+    "label": "text.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/core/mail/backends/console.py",
+    "label": "console.py",
+    "parent": "django/core/mail/backends",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes/generation.py",
+    "label": "generation.py",
+    "parent": "django/contrib/gis/gdal/prototypes",
+    "importers": 4,
+    "imports": 1
+  },
+  {
+    "id": "django/forms/boundfield.py",
+    "label": "boundfield.py",
+    "parent": "django/forms",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/gd.py",
+    "label": "gd.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/test/utils.py",
+    "label": "utils.py",
+    "parent": "django/test",
+    "importers": 5,
+    "imports": 15
+  },
+  {
+    "id": "django/test/selenium.py",
+    "label": "selenium.py",
+    "parent": "django/test",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/pt_BR/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/pt_BR",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle.py",
+    "label": "oracle.py",
+    "parent": "django/contrib/gis/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/deletion.py",
+    "label": "deletion.py",
+    "parent": "django/db/models",
+    "importers": 9,
+    "imports": 6
+  },
+  {
+    "id": "django/core/servers.py",
+    "label": "servers.py",
+    "parent": "django/core",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/nn/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/nn",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres.py",
+    "label": "postgres.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ml.py",
+    "label": "ml.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/files/storage/memory.py",
+    "label": "memory.py",
+    "parent": "django/core/files/storage",
+    "importers": 1,
+    "imports": 10
+  },
+  {
+    "id": "django/contrib/postgres/expressions.py",
+    "label": "expressions.py",
+    "parent": "django/contrib/postgres",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/db/models/fields/proxy.py",
+    "label": "proxy.py",
+    "parent": "django/db/models/fields",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/db/migrations/recorder.py",
+    "label": "recorder.py",
+    "parent": "django/db/migrations",
+    "importers": 3,
+    "imports": 6
+  },
+  {
+    "id": "django/middleware/gzip.py",
+    "label": "gzip.py",
+    "parent": "django/middleware",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/core/files/storage/handler.py",
+    "label": "handler.py",
+    "parent": "django/core/files/storage",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/fi.py",
+    "label": "fi.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sessions/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/sessions",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template/smartif.py",
+    "label": "smartif.py",
+    "parent": "django/template",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/schema.py",
+    "label": "schema.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/base/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/db/backends/base",
+    "importers": 5,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ka/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ka",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/sqlite3/schema.py",
+    "label": "schema.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 2,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/gis/forms/widgets.py",
+    "label": "widgets.py",
+    "parent": "django/contrib/gis/forms",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/db/backends/postgresql/operations.py",
+    "label": "operations.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 3,
+    "imports": 9
+  },
+  {
+    "id": "django/conf/locale/cy/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/cy",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/admin",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/servers/basehttp.py",
+    "label": "basehttp.py",
+    "parent": "django/core/servers",
+    "importers": 2,
+    "imports": 7
+  },
+  {
+    "id": "django/views/i18n.py",
+    "label": "i18n.py",
+    "parent": "django/views",
+    "importers": 2,
+    "imports": 10
+  },
+  {
+    "id": "django/db/backends/sqlite3.py",
+    "label": "sqlite3.py",
+    "parent": "django/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/eo/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/eo",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/test.py",
+    "label": "test.py",
+    "parent": "django",
+    "importers": 5,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/gis/db",
+    "importers": 15,
+    "imports": 5
+  },
+  {
+    "id": "django/template/defaulttags.py",
+    "label": "defaulttags.py",
+    "parent": "django/template",
+    "importers": 1,
+    "imports": 13
+  },
+  {
+    "id": "django/utils/json.py",
+    "label": "json.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ka.py",
+    "label": "ka.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/module_loading.py",
+    "label": "module_loading.py",
+    "parent": "django/utils",
+    "importers": 37,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/id/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/id",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis.py",
+    "label": "postgis.py",
+    "parent": "django/contrib/gis/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/operations.py",
+    "label": "operations.py",
+    "parent": "django/contrib/postgres",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/admin/templatetags/admin_modify.py",
+    "label": "admin_modify.py",
+    "parent": "django/contrib/admin/templatetags",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/views/decorators/common.py",
+    "label": "common.py",
+    "parent": "django/views/decorators",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/nb/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/nb",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/he/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/he",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/global_settings.py",
+    "label": "global_settings.py",
+    "parent": "django/conf",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ca/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ca",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/functions/math.py",
+    "label": "math.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/el.py",
+    "label": "el.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/messages/api.py",
+    "label": "api.py",
+    "parent": "django/contrib/messages",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/fields/files.py",
+    "label": "files.py",
+    "parent": "django/db/models/fields",
+    "importers": 1,
+    "imports": 13
+  },
+  {
+    "id": "django/contrib/auth/handlers.py",
+    "label": "handlers.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/es_CO.py",
+    "label": "es_CO.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/checks/registry.py",
+    "label": "registry.py",
+    "parent": "django/core/checks",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/core/cache/utils.py",
+    "label": "utils.py",
+    "parent": "django/core/cache",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sessions/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/sessions/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/geos/factory.py",
+    "label": "factory.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sessions/backends/file.py",
+    "label": "file.py",
+    "parent": "django/contrib/sessions/backends",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/core/mail/backends/locmem.py",
+    "label": "locmem.py",
+    "parent": "django/core/mail/backends",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/sk/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/sk",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/functional.py",
+    "label": "functional.py",
+    "parent": "django/utils",
+    "importers": 118,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/geometry.py",
+    "label": "geometry.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 12,
+    "imports": 16
+  },
+  {
+    "id": "django/contrib/auth/templatetags.py",
+    "label": "templatetags.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/en_IE.py",
+    "label": "en_IE.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/cache/backends/locmem.py",
+    "label": "locmem.py",
+    "parent": "django/core/cache/backends",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/auth/decorators.py",
+    "label": "decorators.py",
+    "parent": "django/contrib/auth",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/db/models/fetch_modes.py",
+    "label": "fetch_modes.py",
+    "parent": "django/db/models",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/admin/templatetags/admin_urls.py",
+    "label": "admin_urls.py",
+    "parent": "django/contrib/admin/templatetags",
+    "importers": 2,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/auth/migrations/0005_alter_user_last_login_null.py",
+    "label": "0005_alter_user_last_login_null.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/threadsafe.py",
+    "label": "threadsafe.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ig.py",
+    "label": "ig.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/dateformat.py",
+    "label": "dateformat.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/core/cache.py",
+    "label": "cache.py",
+    "parent": "django/core",
+    "importers": 8,
+    "imports": 4
+  },
+  {
+    "id": "django/db/models/sql/subqueries.py",
+    "label": "subqueries.py",
+    "parent": "django/db/models/sql",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/admin/views/main.py",
+    "label": "main.py",
+    "parent": "django/contrib/admin/views",
+    "importers": 3,
+    "imports": 16
+  },
+  {
+    "id": "django/core/management/commands.py",
+    "label": "commands.py",
+    "parent": "django/core/management",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/en.py",
+    "label": "en.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/staticfiles/management.py",
+    "label": "management.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/oracle/features.py",
+    "label": "features.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/forms/fields.py",
+    "label": "fields.py",
+    "parent": "django/forms",
+    "importers": 5,
+    "imports": 13
+  },
+  {
+    "id": "django/conf/locale/nb.py",
+    "label": "nb.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/fields/hstore.py",
+    "label": "hstore.py",
+    "parent": "django/contrib/postgres/fields",
+    "importers": 1,
+    "imports": 8
+  },
+  {
+    "id": "django/contrib/gis/geos/io.py",
+    "label": "io.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/http/request.py",
+    "label": "request.py",
+    "parent": "django/http",
+    "importers": 3,
+    "imports": 10
+  },
+  {
+    "id": "django/conf/locale/cs.py",
+    "label": "cs.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sites/checks.py",
+    "label": "checks.py",
+    "parent": "django/contrib/sites",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/postgres/forms.py",
+    "label": "forms.py",
+    "parent": "django/contrib/postgres",
+    "importers": 3,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/admin/forms.py",
+    "label": "forms.py",
+    "parent": "django/contrib/admin",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/gdal/raster/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/gdal/raster",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/db/models/proxy.py",
+    "label": "proxy.py",
+    "parent": "django/contrib/gis/db/models",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/sitemaps/kml.py",
+    "label": "kml.py",
+    "parent": "django/contrib/gis/sitemaps",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/auth/checks.py",
+    "label": "checks.py",
+    "parent": "django/contrib/auth",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/db/backends/dummy/features.py",
+    "label": "features.py",
+    "parent": "django/db/backends/dummy",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/vi.py",
+    "label": "vi.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/wsgi.py",
+    "label": "wsgi.py",
+    "parent": "django/core",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/views/autocomplete.py",
+    "label": "autocomplete.py",
+    "parent": "django/contrib/admin/views",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/core/checks/messages.py",
+    "label": "messages.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/core/checks/urls.py",
+    "label": "urls.py",
+    "parent": "django/core/checks",
+    "importers": 2,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/sv/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/sv",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/contenttypes/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/utils/numberformat.py",
+    "label": "numberformat.py",
+    "parent": "django/utils",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/views/generic/list.py",
+    "label": "list.py",
+    "parent": "django/views/generic",
+    "importers": 3,
+    "imports": 6
+  },
+  {
+    "id": "django/core/files/storage.py",
+    "label": "storage.py",
+    "parent": "django/core/files",
+    "importers": 5,
+    "imports": 6
+  },
+  {
+    "id": "django/tasks/backends.py",
+    "label": "backends.py",
+    "parent": "django/tasks",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/vi/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/vi",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/sitemaps/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/gis/sitemaps",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/gis/geos/coordseq.py",
+    "label": "coordseq.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 2,
+    "imports": 5
+  },
+  {
+    "id": "django/middleware/security.py",
+    "label": "security.py",
+    "parent": "django/middleware",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/test/html.py",
+    "label": "html.py",
+    "parent": "django/test",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/redirects/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib/redirects",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/redirects/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/redirects",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/staticfiles/urls.py",
+    "label": "urls.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/db/models/constants.py",
+    "label": "constants.py",
+    "parent": "django/db/models",
+    "importers": 20,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/base/validation.py",
+    "label": "validation.py",
+    "parent": "django/db/backends/base",
+    "importers": 3,
+    "imports": 0
+  },
+  {
+    "id": "django/core/serializers/pyyaml.py",
+    "label": "pyyaml.py",
+    "parent": "django/core/serializers",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/template/backends/dummy.py",
+    "label": "dummy.py",
+    "parent": "django/template/backends",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/core/mail/utils.py",
+    "label": "utils.py",
+    "parent": "django/core/mail",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/messages/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/messages",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/core/management/commands/squashmigrations.py",
+    "label": "squashmigrations.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 9
+  },
+  {
+    "id": "django/conf/locale/es/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/es",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/dates.py",
+    "label": "dates.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/et/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/et",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/adapter.py",
+    "label": "adapter.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/functions/mixins.py",
+    "label": "mixins.py",
+    "parent": "django/db/models/functions",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/middleware/csrf.py",
+    "label": "csrf.py",
+    "parent": "django/middleware",
+    "importers": 6,
+    "imports": 11
+  },
+  {
+    "id": "django/conf/locale/ro.py",
+    "label": "ro.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/hu/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/hu",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/messages/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/messages",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/mysql/schema.py",
+    "label": "schema.py",
+    "parent": "django/contrib/gis/db/backends/mysql",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/flatpages/forms.py",
+    "label": "forms.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/crypto.py",
+    "label": "crypto.py",
+    "parent": "django/utils",
+    "importers": 12,
+    "imports": 2
+  },
+  {
+    "id": "django/tasks.py",
+    "label": "tasks.py",
+    "parent": "django",
+    "importers": 4,
+    "imports": 6
+  },
+  {
+    "id": "django/db/models/query.py",
+    "label": "query.py",
+    "parent": "django/db/models",
+    "importers": 7,
+    "imports": 19
+  },
+  {
+    "id": "django/contrib/flatpages/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/core/files/move.py",
+    "label": "move.py",
+    "parent": "django/core/files",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/core/handlers/wsgi.py",
+    "label": "wsgi.py",
+    "parent": "django/core/handlers",
+    "importers": 5,
+    "imports": 8
+  },
+  {
+    "id": "django/conf/locale/cs/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/cs",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/en_AU/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/en_AU",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/mutable_list.py",
+    "label": "mutable_list.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/oracle/operations.py",
+    "label": "operations.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 2,
+    "imports": 13
+  },
+  {
+    "id": "django/conf/locale/gl/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/gl",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib.py",
+    "label": "contrib.py",
+    "parent": "django",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/tr.py",
+    "label": "tr.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/fy/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fy",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/dispatch/dispatcher.py",
+    "label": "dispatcher.py",
+    "parent": "django/dispatch",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/sessions/serializers.py",
+    "label": "serializers.py",
+    "parent": "django/contrib/sessions",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sessions/management.py",
+    "label": "management.py",
+    "parent": "django/contrib/sessions",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/es_AR/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/es_AR",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/schema.py",
+    "label": "schema.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/sk.py",
+    "label": "sk.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/flatpages/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 3,
+    "imports": 9
+  },
+  {
+    "id": "django/core/validators.py",
+    "label": "validators.py",
+    "parent": "django/core",
+    "importers": 9,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/admindocs/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/admindocs",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/shortcuts.py",
+    "label": "shortcuts.py",
+    "parent": "django/contrib/gis",
+    "importers": 4,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/postgres",
+    "importers": 7,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/translation/trans_real.py",
+    "label": "trans_real.py",
+    "parent": "django/utils/translation",
+    "importers": 5,
+    "imports": 9
+  },
+  {
+    "id": "django/urls/conf.py",
+    "label": "conf.py",
+    "parent": "django/urls",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/db/models/base.py",
+    "label": "base.py",
+    "parent": "django/db/models",
+    "importers": 4,
+    "imports": 24
+  },
+  {
+    "id": "django/contrib/gis/serializers.py",
+    "label": "serializers.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/te/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/te",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/signals.py",
+    "label": "signals.py",
+    "parent": "django/contrib/postgres",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/redirects/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/redirects",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/backends.py",
+    "label": "backends.py",
+    "parent": "django/contrib/auth",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/mk.py",
+    "label": "mk.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/gl.py",
+    "label": "gl.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/loader.py",
+    "label": "loader.py",
+    "parent": "django/db/migrations",
+    "importers": 10,
+    "imports": 6
+  },
+  {
+    "id": "django/core/checks/templates.py",
+    "label": "templates.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/migrations/0008_alter_user_username_max_length.py",
+    "label": "0008_alter_user_username_max_length.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ga.py",
+    "label": "ga.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/pt_BR.py",
+    "label": "pt_BR.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/serializers/xml_serializer.py",
+    "label": "xml_serializer.py",
+    "parent": "django/core/serializers",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/db/backends/mysql.py",
+    "label": "mysql.py",
+    "parent": "django/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template/backends/base.py",
+    "label": "base.py",
+    "parent": "django/template/backends",
+    "importers": 3,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/lt.py",
+    "label": "lt.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/timesince.py",
+    "label": "timesince.py",
+    "parent": "django/utils",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/utils/termcolors.py",
+    "label": "termcolors.py",
+    "parent": "django/utils",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/sql/datastructures.py",
+    "label": "datastructures.py",
+    "parent": "django/db/models/sql",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/migrations/0003_logentry_add_action_flag_choices.py",
+    "label": "0003_logentry_add_action_flag_choices.py",
+    "parent": "django/contrib/admin/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/gdal/layer.py",
+    "label": "layer.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 1,
+    "imports": 13
+  },
+  {
+    "id": "django/contrib/sitemaps/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/sitemaps",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/km/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/km",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/flatpages/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/db/backends/mysql/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/db/backends/mysql",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/core/management/commands/loaddata.py",
+    "label": "loaddata.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 10
+  },
+  {
+    "id": "django/contrib/auth/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/auth",
+    "importers": 7,
+    "imports": 18
+  },
+  {
+    "id": "django/views/decorators/csp.py",
+    "label": "csp.py",
+    "parent": "django/views/decorators",
+    "importers": 1,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ckb/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ckb",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py",
+    "label": "0007_alter_validators_add_error_messages.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/geos/error.py",
+    "label": "error.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 7,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/operations.py",
+    "label": "operations.py",
+    "parent": "django/db/migrations",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/mysql/compiler.py",
+    "label": "compiler.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/views/decorators/http.py",
+    "label": "http.py",
+    "parent": "django/views/decorators",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/db/models/manager.py",
+    "label": "manager.py",
+    "parent": "django/db/models",
+    "importers": 4,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/es_NI/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/es_NI",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sites/migrations/0002_alter_domain_unique.py",
+    "label": "0002_alter_domain_unique.py",
+    "parent": "django/contrib/sites/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/th.py",
+    "label": "th.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/functions/comparison.py",
+    "label": "comparison.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/views/generic/base.py",
+    "label": "base.py",
+    "parent": "django/views/generic",
+    "importers": 7,
+    "imports": 7
+  },
+  {
+    "id": "django/utils/ipv6.py",
+    "label": "ipv6.py",
+    "parent": "django/utils",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/contenttypes/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 8,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 8
+  },
+  {
+    "id": "django/conf/locale/zh_Hans/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/zh_Hans",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/pl/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/pl",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/constraints.py",
+    "label": "constraints.py",
+    "parent": "django/db/models",
+    "importers": 2,
+    "imports": 12
+  },
+  {
+    "id": "django/apps/registry.py",
+    "label": "registry.py",
+    "parent": "django/apps",
+    "importers": 6,
+    "imports": 3
+  },
+  {
+    "id": "django/middleware/cache.py",
+    "label": "cache.py",
+    "parent": "django/middleware",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/gis/geometry.py",
+    "label": "geometry.py",
+    "parent": "django/contrib/gis",
+    "importers": 4,
+    "imports": 1
+  },
+  {
+    "id": "django/template/loaders/locmem.py",
+    "label": "locmem.py",
+    "parent": "django/template/loaders",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/tg.py",
+    "label": "tg.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/dummy/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends/dummy",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/es_MX.py",
+    "label": "es_MX.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sites/management.py",
+    "label": "management.py",
+    "parent": "django/contrib/sites",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/db/backends/sqlite3/client.py",
+    "label": "client.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/humanize/templatetags/humanize.py",
+    "label": "humanize.py",
+    "parent": "django/contrib/humanize/templatetags",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/et.py",
+    "label": "et.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/sr_Latn/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/sr_Latn",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/actions.py",
+    "label": "actions.py",
+    "parent": "django/contrib/admin",
+    "importers": 1,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/humanize/templatetags.py",
+    "label": "templatetags.py",
+    "parent": "django/contrib/humanize",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/sr/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/sr",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/contenttypes.py",
+    "label": "contenttypes.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/flatpages/urls.py",
+    "label": "urls.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/management/commands/createsuperuser.py",
+    "label": "createsuperuser.py",
+    "parent": "django/contrib/auth/management/commands",
+    "importers": 0,
+    "imports": 8
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/admin/templatetags.py",
+    "label": "templatetags.py",
+    "parent": "django/contrib/admin",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/functions/uuid.py",
+    "label": "uuid.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/core/management/commands/shell.py",
+    "label": "shell.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/io.py",
+    "label": "io.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 6,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/th/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/th",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/functions/datetime.py",
+    "label": "datetime.py",
+    "parent": "django/db/models/functions",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/core/signing.py",
+    "label": "signing.py",
+    "parent": "django/core",
+    "importers": 6,
+    "imports": 5
+  },
+  {
+    "id": "django/forms/models.py",
+    "label": "models.py",
+    "parent": "django/forms",
+    "importers": 6,
+    "imports": 13
+  },
+  {
+    "id": "django/db/backends/mysql/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 1,
+    "imports": 14
+  },
+  {
+    "id": "django/conf/locale/fr/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fr",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/lookups.py",
+    "label": "lookups.py",
+    "parent": "django/contrib/postgres",
+    "importers": 4,
+    "imports": 5
+  },
+  {
+    "id": "django/db/backends/mysql/features.py",
+    "label": "features.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/core/serializers/json.py",
+    "label": "json.py",
+    "parent": "django/core/serializers",
+    "importers": 5,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/is/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/is",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/views/decorators/cache.py",
+    "label": "cache.py",
+    "parent": "django/views/decorators",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/urls/utils.py",
+    "label": "utils.py",
+    "parent": "django/urls",
+    "importers": 3,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/contenttypes/fields.py",
+    "label": "fields.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 2,
+    "imports": 17
+  },
+  {
+    "id": "django/utils/hashable.py",
+    "label": "hashable.py",
+    "parent": "django/utils",
+    "importers": 10,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/redirects.py",
+    "label": "redirects.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ug/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ug",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/migrations/0002_logentry_remove_auto_add.py",
+    "label": "0002_logentry_remove_auto_add.py",
+    "parent": "django/contrib/admin/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/migrations/0011_update_proxy_permissions.py",
+    "label": "0011_update_proxy_permissions.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/en_AU.py",
+    "label": "en_AU.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/test/client.py",
+    "label": "client.py",
+    "parent": "django/test",
+    "importers": 2,
+    "imports": 16
+  },
+  {
+    "id": "django/contrib/gis/management/commands/ogrinspect.py",
+    "label": "ogrinspect.py",
+    "parent": "django/contrib/gis/management/commands",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/features.py",
+    "label": "features.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/postgres/forms/ranges.py",
+    "label": "ranges.py",
+    "parent": "django/contrib/postgres/forms",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/gis/geos/polygon.py",
+    "label": "polygon.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 3,
+    "imports": 4
+  },
+  {
+    "id": "django/forms/renderers.py",
+    "label": "renderers.py",
+    "parent": "django/forms",
+    "importers": 6,
+    "imports": 6
+  },
+  {
+    "id": "django/db/models/options.py",
+    "label": "options.py",
+    "parent": "django/db/models",
+    "importers": 5,
+    "imports": 14
+  },
+  {
+    "id": "django/contrib/gis/db/backends/utils.py",
+    "label": "utils.py",
+    "parent": "django/contrib/gis/db/backends",
+    "importers": 4,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/utils/ogrinfo.py",
+    "label": "ogrinfo.py",
+    "parent": "django/contrib/gis/utils",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management/commands/diffsettings.py",
+    "label": "diffsettings.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py",
+    "label": "0009_alter_user_last_name_max_length.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management/commands/makemigrations.py",
+    "label": "makemigrations.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 14
+  },
+  {
+    "id": "django/contrib/gis/db/backends/mysql.py",
+    "label": "mysql.py",
+    "parent": "django/contrib/gis/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/startapp.py",
+    "label": "startapp.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/db/backends/postgresql/psycopg_any.py",
+    "label": "psycopg_any.py",
+    "parent": "django/db/backends/postgresql",
+    "importers": 13,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/client.py",
+    "label": "client.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/db/models/query_utils.py",
+    "label": "query_utils.py",
+    "parent": "django/db/models",
+    "importers": 17,
+    "imports": 13
+  },
+  {
+    "id": "django/urls.py",
+    "label": "urls.py",
+    "parent": "django",
+    "importers": 41,
+    "imports": 6
+  },
+  {
+    "id": "django/db/backends/oracle/functions.py",
+    "label": "functions.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/utils/archive.py",
+    "label": "archive.py",
+    "parent": "django/utils",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/feeds.py",
+    "label": "feeds.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/predicates.py",
+    "label": "predicates.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/formats.py",
+    "label": "formats.py",
+    "parent": "django/utils",
+    "importers": 10,
+    "imports": 5
+  },
+  {
+    "id": "django/db/migrations/writer.py",
+    "label": "writer.py",
+    "parent": "django/db/migrations",
+    "importers": 5,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/sites/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/sites",
+    "importers": 6,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/staticfiles/testing.py",
+    "label": "testing.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/core.py",
+    "label": "core.py",
+    "parent": "django",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template/loaders/base.py",
+    "label": "base.py",
+    "parent": "django/template/loaders",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/utils/deconstruct.py",
+    "label": "deconstruct.py",
+    "parent": "django/utils",
+    "importers": 7,
+    "imports": 1
+  },
+  {
+    "id": "django/db/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/db",
+    "importers": 31,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ar/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ar",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/handlers/base.py",
+    "label": "base.py",
+    "parent": "django/core/handlers",
+    "importers": 3,
+    "imports": 9
+  },
+  {
+    "id": "django/forms/utils.py",
+    "label": "utils.py",
+    "parent": "django/forms",
+    "importers": 9,
+    "imports": 7
+  },
+  {
+    "id": "django/core/serializers.py",
+    "label": "serializers.py",
+    "parent": "django/core",
+    "importers": 5,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/gdal/raster/band.py",
+    "label": "band.py",
+    "parent": "django/contrib/gis/gdal/raster",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/gdal/error.py",
+    "label": "error.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 16,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/contenttypes/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/sql/compiler.py",
+    "label": "compiler.py",
+    "parent": "django/db/models/sql",
+    "importers": 2,
+    "imports": 16
+  },
+  {
+    "id": "django/contrib/sessions/middleware.py",
+    "label": "middleware.py",
+    "parent": "django/contrib/sessions",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/core/management/commands/sendtestemail.py",
+    "label": "sendtestemail.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/management/commands.py",
+    "label": "commands.py",
+    "parent": "django/contrib/gis/management",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/datasource.py",
+    "label": "datasource.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/core/signals.py",
+    "label": "signals.py",
+    "parent": "django/core",
+    "importers": 20,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/en_IE/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/en_IE",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/views/decorators/gzip.py",
+    "label": "gzip.py",
+    "parent": "django/views/decorators",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/core/files/base.py",
+    "label": "base.py",
+    "parent": "django/core/files",
+    "importers": 5,
+    "imports": 2
+  },
+  {
+    "id": "django/test/testcases.py",
+    "label": "testcases.py",
+    "parent": "django/test",
+    "importers": 1,
+    "imports": 24
+  },
+  {
+    "id": "django/contrib/gis.py",
+    "label": "gis.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends.py",
+    "label": "backends.py",
+    "parent": "django/contrib/gis/db",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/management.py",
+    "label": "management.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/geom.py",
+    "label": "geom.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 4,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/staticfiles/checks.py",
+    "label": "checks.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db.py",
+    "label": "db.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/it.py",
+    "label": "it.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/contenttypes/migrations/0002_remove_content_type_name.py",
+    "label": "0002_remove_content_type_name.py",
+    "parent": "django/contrib/contenttypes/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/db/models/aggregates.py",
+    "label": "aggregates.py",
+    "parent": "django/contrib/gis/db/models",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/geos/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/geos",
+    "importers": 5,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/flatpages/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/base/creation.py",
+    "label": "creation.py",
+    "parent": "django/db/backends/base",
+    "importers": 5,
+    "imports": 9
+  },
+  {
+    "id": "django/template/context.py",
+    "label": "context.py",
+    "parent": "django/template",
+    "importers": 6,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sites.py",
+    "label": "sites.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/admin/decorators.py",
+    "label": "decorators.py",
+    "parent": "django/contrib/admin",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/sql/query.py",
+    "label": "query.py",
+    "parent": "django/db/models/sql",
+    "importers": 9,
+    "imports": 17
+  },
+  {
+    "id": "django/utils.py",
+    "label": "utils.py",
+    "parent": "django",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/pt/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/pt",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/raster.py",
+    "label": "raster.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/sitemaps.py",
+    "label": "sitemaps.py",
+    "parent": "django/contrib",
+    "importers": 2,
+    "imports": 5
+  },
+  {
+    "id": "django/conf/locale/hi/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/hi",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/dispatch.py",
+    "label": "dispatch.py",
+    "parent": "django",
+    "importers": 10,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/contenttypes/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 0,
+    "imports": 8
+  },
+  {
+    "id": "django/db/backends/sqlite3/features.py",
+    "label": "features.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/utils/srs.py",
+    "label": "srs.py",
+    "parent": "django/contrib/gis/utils",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/templatetags/tz.py",
+    "label": "tz.py",
+    "parent": "django/templatetags",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/flatpages/templatetags/flatpages.py",
+    "label": "flatpages.py",
+    "parent": "django/contrib/flatpages/templatetags",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/http/cookie.py",
+    "label": "cookie.py",
+    "parent": "django/http",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/models/lookups.py",
+    "label": "lookups.py",
+    "parent": "django/contrib/gis/db/models",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/core/cache/backends/base.py",
+    "label": "base.py",
+    "parent": "django/core/cache/backends",
+    "importers": 7,
+    "imports": 3
+  },
+  {
+    "id": "django/core/checks/compatibility/django_4_0.py",
+    "label": "django_4_0.py",
+    "parent": "django/core/checks/compatibility",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/fi/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/fi",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/raster/source.py",
+    "label": "source.py",
+    "parent": "django/contrib/gis/gdal/raster",
+    "importers": 1,
+    "imports": 10
+  },
+  {
+    "id": "django/utils/translation/template.py",
+    "label": "template.py",
+    "parent": "django/utils/translation",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/sites/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib/sites",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib/gis",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py",
+    "label": "0012_alter_user_first_name_max_length.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/sessions/backends/signed_cookies.py",
+    "label": "signed_cookies.py",
+    "parent": "django/contrib/sessions/backends",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/middleware/csp.py",
+    "label": "csp.py",
+    "parent": "django/middleware",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/templatetags/cache.py",
+    "label": "cache.py",
+    "parent": "django/templatetags",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/middleware/clickjacking.py",
+    "label": "clickjacking.py",
+    "parent": "django/middleware",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/fa.py",
+    "label": "fa.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/gdal/srs.py",
+    "label": "srs.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 4,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/forms/fields.py",
+    "label": "fields.py",
+    "parent": "django/contrib/gis/forms",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/staticfiles/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/admin/checks.py",
+    "label": "checks.py",
+    "parent": "django/contrib/admin",
+    "importers": 3,
+    "imports": 16
+  },
+  {
+    "id": "django/contrib/redirects/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/redirects/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/core/management/commands/startproject.py",
+    "label": "startproject.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/mysql/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/contrib/gis/db/backends/mysql",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/base_user.py",
+    "label": "base_user.py",
+    "parent": "django/contrib/auth",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/he.py",
+    "label": "he.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template/backends/jinja2.py",
+    "label": "jinja2.py",
+    "parent": "django/template/backends",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/prepared.py",
+    "label": "prepared.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/views/decorators/vary.py",
+    "label": "vary.py",
+    "parent": "django/views/decorators",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/ca.py",
+    "label": "ca.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/color.py",
+    "label": "color.py",
+    "parent": "django/core/management",
+    "importers": 10,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sites/shortcuts.py",
+    "label": "shortcuts.py",
+    "parent": "django/contrib/sites",
+    "importers": 9,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/staticfiles/management/commands/collectstatic.py",
+    "label": "collectstatic.py",
+    "parent": "django/contrib/staticfiles/management/commands",
+    "importers": 0,
+    "imports": 8
+  },
+  {
+    "id": "django/contrib/auth/tokens.py",
+    "label": "tokens.py",
+    "parent": "django/contrib/auth",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/db/backends/mysql/operations.py",
+    "label": "operations.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 2,
+    "imports": 8
+  },
+  {
+    "id": "django/db/models/expressions.py",
+    "label": "expressions.py",
+    "parent": "django/db/models",
+    "importers": 36,
+    "imports": 11
+  },
+  {
+    "id": "django/core/cache/backends/db.py",
+    "label": "db.py",
+    "parent": "django/core/cache/backends",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/sites/migrations/0001_initial.py",
+    "label": "0001_initial.py",
+    "parent": "django/contrib/sites/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/mixins.py",
+    "label": "mixins.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/apps/config.py",
+    "label": "config.py",
+    "parent": "django/apps",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/postgres/fields/citext.py",
+    "label": "citext.py",
+    "parent": "django/contrib/postgres/fields",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/fy.py",
+    "label": "fy.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/mysql/client.py",
+    "label": "client.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/admin/tests.py",
+    "label": "tests.py",
+    "parent": "django/contrib/admin",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/contrib/postgres/forms/hstore.py",
+    "label": "hstore.py",
+    "parent": "django/contrib/postgres/forms",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ms/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ms",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/utils.py",
+    "label": "utils.py",
+    "parent": "django/core/management",
+    "importers": 10,
+    "imports": 4
+  },
+  {
+    "id": "django/middleware/locale.py",
+    "label": "locale.py",
+    "parent": "django/middleware",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/staticfiles/storage.py",
+    "label": "storage.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 3,
+    "imports": 7
+  },
+  {
+    "id": "django/conf/locale/ar_DZ/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ar_DZ",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models/fields/related_descriptors.py",
+    "label": "related_descriptors.py",
+    "parent": "django/db/models/fields",
+    "importers": 1,
+    "imports": 13
+  },
+  {
+    "id": "django/utils/decorators.py",
+    "label": "decorators.py",
+    "parent": "django/utils",
+    "importers": 10,
+    "imports": 0
+  },
+  {
+    "id": "django/db/migrations/questioner.py",
+    "label": "questioner.py",
+    "parent": "django/db/migrations",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/redirects/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/redirects",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale.py",
+    "label": "locale.py",
+    "parent": "django/conf",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/core/asgi.py",
+    "label": "asgi.py",
+    "parent": "django/core",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/humanize.py",
+    "label": "humanize.py",
+    "parent": "django/contrib",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/connection.py",
+    "label": "connection.py",
+    "parent": "django/utils",
+    "importers": 4,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/postgres/fields/ranges.py",
+    "label": "ranges.py",
+    "parent": "django/contrib/postgres/fields",
+    "importers": 1,
+    "imports": 8
+  },
+  {
+    "id": "django/core/handlers/asgi.py",
+    "label": "asgi.py",
+    "parent": "django/core/handlers",
+    "importers": 3,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/auth/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 10
+  },
+  {
+    "id": "django/conf/locale/en_CA.py",
+    "label": "en_CA.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/sqlite3/base.py",
+    "label": "base.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 4,
+    "imports": 13
+  },
+  {
+    "id": "django/contrib/gis/db/backends/mysql/features.py",
+    "label": "features.py",
+    "parent": "django/contrib/gis/db/backends/mysql",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/views/defaults.py",
+    "label": "defaults.py",
+    "parent": "django/views",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/sr.py",
+    "label": "sr.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/id.py",
+    "label": "id.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/backends/mysql/creation.py",
+    "label": "creation.py",
+    "parent": "django/db/backends/mysql",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/nl/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/nl",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/syndication/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/syndication",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/utils/timezone.py",
+    "label": "timezone.py",
+    "parent": "django/utils",
+    "importers": 47,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sessions/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/sessions",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/contenttypes/management.py",
+    "label": "management.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 2,
+    "imports": 4
+  },
+  {
+    "id": "django/db/backends/sqlite3/creation.py",
+    "label": "creation.py",
+    "parent": "django/db/backends/sqlite3",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/db/models/aggregates.py",
+    "label": "aggregates.py",
+    "parent": "django/db/models",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/templatetags/l10n.py",
+    "label": "l10n.py",
+    "parent": "django/templatetags",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/filters.py",
+    "label": "filters.py",
+    "parent": "django/contrib/admin",
+    "importers": 2,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/gis/management/commands/inspectdb.py",
+    "label": "inspectdb.py",
+    "parent": "django/contrib/gis/management/commands",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/messages/storage/session.py",
+    "label": "session.py",
+    "parent": "django/contrib/messages/storage",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/sitemaps/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/sitemaps",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/core/checks/database.py",
+    "label": "database.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/admin/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/admin",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/geos.py",
+    "label": "geos.py",
+    "parent": "django/contrib/gis",
+    "importers": 10,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/contenttypes/forms.py",
+    "label": "forms.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/fr.py",
+    "label": "fr.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/sq/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/sq",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/aggregates.py",
+    "label": "aggregates.py",
+    "parent": "django/contrib/postgres",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/flatpages/models.py",
+    "label": "models.py",
+    "parent": "django/contrib/flatpages",
+    "importers": 4,
+    "imports": 6
+  },
+  {
+    "id": "django/views/debug.py",
+    "label": "debug.py",
+    "parent": "django/views",
+    "importers": 1,
+    "imports": 14
+  },
+  {
+    "id": "django/db/backends/oracle/introspection.py",
+    "label": "introspection.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/auth/migrations.py",
+    "label": "migrations.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/template/backends.py",
+    "label": "backends.py",
+    "parent": "django/template",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/serializers.py",
+    "label": "serializers.py",
+    "parent": "django/contrib/postgres",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/db/backends/mysql/operations.py",
+    "label": "operations.py",
+    "parent": "django/contrib/gis/db/backends/mysql",
+    "importers": 1,
+    "imports": 9
+  },
+  {
+    "id": "django/core/management/base.py",
+    "label": "base.py",
+    "parent": "django/core/management",
+    "importers": 32,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/staticfiles/finders.py",
+    "label": "finders.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 5,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes.py",
+    "label": "prototypes.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/gd/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/gd",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/mn/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/mn",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/tr/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/tr",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/ig/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/ig",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/zh_Hant/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/zh_Hant",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/postgis/adapter.py",
+    "label": "adapter.py",
+    "parent": "django/contrib/gis/db/backends/postgis",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/ru.py",
+    "label": "ru.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/backends/spatialite/operations.py",
+    "label": "operations.py",
+    "parent": "django/contrib/gis/db/backends/spatialite",
+    "importers": 1,
+    "imports": 12
+  },
+  {
+    "id": "django/template/context_processors.py",
+    "label": "context_processors.py",
+    "parent": "django/template",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/db/models/fields/json.py",
+    "label": "json.py",
+    "parent": "django/db/models/fields",
+    "importers": 2,
+    "imports": 11
+  },
+  {
+    "id": "django/contrib/auth/migrations/0004_alter_user_username_opts.py",
+    "label": "0004_alter_user_username_opts.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/core/checks/security/csrf.py",
+    "label": "csrf.py",
+    "parent": "django/core/checks/security",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib",
+    "importers": 11,
+    "imports": 5
+  },
+  {
+    "id": "django/http/multipartparser.py",
+    "label": "multipartparser.py",
+    "parent": "django/http",
+    "importers": 2,
+    "imports": 8
+  },
+  {
+    "id": "django/conf/locale/hr/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/hr",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/auth/password_validation.py",
+    "label": "password_validation.py",
+    "parent": "django/contrib/auth",
+    "importers": 5,
+    "imports": 6
+  },
+  {
+    "id": "django/template/loaders/app_directories.py",
+    "label": "app_directories.py",
+    "parent": "django/template/loaders",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/messages/storage.py",
+    "label": "storage.py",
+    "parent": "django/contrib/messages",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/de_CH.py",
+    "label": "de_CH.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/files/storage/mixins.py",
+    "label": "mixins.py",
+    "parent": "django/core/files/storage",
+    "importers": 2,
+    "imports": 0
+  },
+  {
+    "id": "django/core/cache/backends.py",
+    "label": "backends.py",
+    "parent": "django/core/cache",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/forms/array.py",
+    "label": "array.py",
+    "parent": "django/contrib/postgres/forms",
+    "importers": 1,
+    "imports": 5
+  },
+  {
+    "id": "django/core/management/commands/sqlflush.py",
+    "label": "sqlflush.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/template/loaders/filesystem.py",
+    "label": "filesystem.py",
+    "parent": "django/template/loaders",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/core/mail/backends/filebased.py",
+    "label": "filebased.py",
+    "parent": "django/core/mail/backends",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/gdal/geometries.py",
+    "label": "geometries.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 4,
+    "imports": 10
+  },
+  {
+    "id": "django/db/migrations/operations/models.py",
+    "label": "models.py",
+    "parent": "django/db/migrations/operations",
+    "importers": 3,
+    "imports": 8
+  },
+  {
+    "id": "django/db/backends/oracle.py",
+    "label": "oracle.py",
+    "parent": "django/db/backends",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/fields.py",
+    "label": "fields.py",
+    "parent": "django/contrib/postgres",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/core/files/uploadedfile.py",
+    "label": "uploadedfile.py",
+    "parent": "django/core/files",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/db/models/fields/generated.py",
+    "label": "generated.py",
+    "parent": "django/db/models/fields",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/ar_DZ.py",
+    "label": "ar_DZ.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/gis/db/models/sql.py",
+    "label": "sql.py",
+    "parent": "django/contrib/gis/db/models",
+    "importers": 1,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/gdal/field.py",
+    "label": "field.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 4,
+    "imports": 4
+  },
+  {
+    "id": "django/db/models/fields/related_lookups.py",
+    "label": "related_lookups.py",
+    "parent": "django/db/models/fields",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/admindocs/views.py",
+    "label": "views.py",
+    "parent": "django/contrib/admindocs",
+    "importers": 1,
+    "imports": 16
+  },
+  {
+    "id": "django/conf/locale/eu/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/eu",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/utils/dateparse.py",
+    "label": "dateparse.py",
+    "parent": "django/utils",
+    "importers": 5,
+    "imports": 2
+  },
+  {
+    "id": "django/db/migrations/autodetector.py",
+    "label": "autodetector.py",
+    "parent": "django/db/migrations",
+    "importers": 2,
+    "imports": 9
+  },
+  {
+    "id": "django/contrib/auth/admin.py",
+    "label": "admin.py",
+    "parent": "django/contrib/auth",
+    "importers": 0,
+    "imports": 19
+  },
+  {
+    "id": "django/views/static.py",
+    "label": "static.py",
+    "parent": "django/views",
+    "importers": 3,
+    "imports": 6
+  },
+  {
+    "id": "django/core/checks/caches.py",
+    "label": "caches.py",
+    "parent": "django/core/checks",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/conf/locale/en/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/en",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/handlers/exception.py",
+    "label": "exception.py",
+    "parent": "django/core/handlers",
+    "importers": 2,
+    "imports": 8
+  },
+  {
+    "id": "django/core/management/commands/createcachetable.py",
+    "label": "createcachetable.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 7
+  },
+  {
+    "id": "django/db.py",
+    "label": "db.py",
+    "parent": "django",
+    "importers": 100,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/staticfiles/handlers.py",
+    "label": "handlers.py",
+    "parent": "django/contrib/staticfiles",
+    "importers": 2,
+    "imports": 7
+  },
+  {
+    "id": "django/db/backends/oracle/utils.py",
+    "label": "utils.py",
+    "parent": "django/db/backends/oracle",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/tk.py",
+    "label": "tk.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/en_GB/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/en_GB",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/contenttypes/prefetch.py",
+    "label": "prefetch.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/gis/db/backends/base/adapter.py",
+    "label": "adapter.py",
+    "parent": "django/contrib/gis/db/backends/base",
+    "importers": 3,
+    "imports": 0
+  },
+  {
+    "id": "django/forms/widgets.py",
+    "label": "widgets.py",
+    "parent": "django/forms",
+    "importers": 10,
+    "imports": 10
+  },
+  {
+    "id": "django/db/backends/base/schema.py",
+    "label": "schema.py",
+    "parent": "django/db/backends/base",
+    "importers": 4,
+    "imports": 10
+  },
+  {
+    "id": "django/core/management/commands/showmigrations.py",
+    "label": "showmigrations.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/_os.py",
+    "label": "_os.py",
+    "parent": "django/utils",
+    "importers": 10,
+    "imports": 1
+  },
+  {
+    "id": "django/core/files/storage/base.py",
+    "label": "base.py",
+    "parent": "django/core/files/storage",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/test/signals.py",
+    "label": "signals.py",
+    "parent": "django/test",
+    "importers": 3,
+    "imports": 30
+  },
+  {
+    "id": "django/conf/urls/i18n.py",
+    "label": "i18n.py",
+    "parent": "django/conf/urls",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/core/paginator.py",
+    "label": "paginator.py",
+    "parent": "django/core",
+    "importers": 5,
+    "imports": 4
+  },
+  {
+    "id": "django/utils/inspect.py",
+    "label": "inspect.py",
+    "parent": "django/utils",
+    "importers": 16,
+    "imports": 1
+  },
+  {
+    "id": "django/db/models/indexes.py",
+    "label": "indexes.py",
+    "parent": "django/db/models",
+    "importers": 4,
+    "imports": 7
+  },
+  {
+    "id": "django/contrib/messages/test.py",
+    "label": "test.py",
+    "parent": "django/contrib/messages",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/gdal/prototypes/errcheck.py",
+    "label": "errcheck.py",
+    "parent": "django/contrib/gis/gdal/prototypes",
+    "importers": 2,
+    "imports": 2
+  },
+  {
+    "id": "django/template/loader_tags.py",
+    "label": "loader_tags.py",
+    "parent": "django/template",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/templatetags/auth.py",
+    "label": "auth.py",
+    "parent": "django/contrib/auth/templatetags",
+    "importers": 1,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/gdal/base.py",
+    "label": "base.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 8,
+    "imports": 2
+  },
+  {
+    "id": "django/contrib/staticfiles/management/commands.py",
+    "label": "commands.py",
+    "parent": "django/contrib/staticfiles/management",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/fields/array.py",
+    "label": "array.py",
+    "parent": "django/contrib/postgres/fields",
+    "importers": 3,
+    "imports": 11
+  },
+  {
+    "id": "django/contrib/contenttypes/apps.py",
+    "label": "apps.py",
+    "parent": "django/contrib/contenttypes",
+    "importers": 0,
+    "imports": 6
+  },
+  {
+    "id": "django/conf/locale/is.py",
+    "label": "is.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/zh_Hans.py",
+    "label": "zh_Hans.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/urls/base.py",
+    "label": "base.py",
+    "parent": "django/urls",
+    "importers": 1,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/utils/layermapping.py",
+    "label": "layermapping.py",
+    "parent": "django/contrib/gis/utils",
+    "importers": 1,
+    "imports": 8
+  },
+  {
+    "id": "django/contrib/messages.py",
+    "label": "messages.py",
+    "parent": "django/contrib",
+    "importers": 5,
+    "imports": 3
+  },
+  {
+    "id": "django/db/migrations/operations/fields.py",
+    "label": "fields.py",
+    "parent": "django/db/migrations/operations",
+    "importers": 2,
+    "imports": 6
+  },
+  {
+    "id": "django/contrib/gis/gdal/feature.py",
+    "label": "feature.py",
+    "parent": "django/contrib/gis/gdal",
+    "importers": 1,
+    "imports": 7
+  },
+  {
+    "id": "django/db/backends/signals.py",
+    "label": "signals.py",
+    "parent": "django/db/backends",
+    "importers": 2,
+    "imports": 1
+  },
+  {
+    "id": "django/conf/locale/kn.py",
+    "label": "kn.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/db/models.py",
+    "label": "models.py",
+    "parent": "django/db",
+    "importers": 112,
+    "imports": 21
+  },
+  {
+    "id": "django/core/files/uploadhandler.py",
+    "label": "uploadhandler.py",
+    "parent": "django/core/files",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/schema.py",
+    "label": "schema.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/gis/db/backends/oracle/features.py",
+    "label": "features.py",
+    "parent": "django/contrib/gis/db/backends/oracle",
+    "importers": 1,
+    "imports": 3
+  },
+  {
+    "id": "django/core/files/storage/filesystem.py",
+    "label": "filesystem.py",
+    "parent": "django/core/files/storage",
+    "importers": 1,
+    "imports": 11
+  },
+  {
+    "id": "django/core/files.py",
+    "label": "files.py",
+    "parent": "django/core",
+    "importers": 3,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/sites/managers.py",
+    "label": "managers.py",
+    "parent": "django/contrib/sites",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/db/models/signals.py",
+    "label": "signals.py",
+    "parent": "django/db/models",
+    "importers": 10,
+    "imports": 3
+  },
+  {
+    "id": "django/conf/locale/mk/formats.py",
+    "label": "formats.py",
+    "parent": "django/conf/locale/mk",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/conf/locale/az.py",
+    "label": "az.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/core/management/commands/compilemessages.py",
+    "label": "compilemessages.py",
+    "parent": "django/core/management/commands",
+    "importers": 0,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/admin/templatetags/admin_filters.py",
+    "label": "admin_filters.py",
+    "parent": "django/contrib/admin/templatetags",
+    "importers": 0,
+    "imports": 4
+  },
+  {
+    "id": "django/contrib/gis/db/models/sql/conversion.py",
+    "label": "conversion.py",
+    "parent": "django/contrib/gis/db/models/sql",
+    "importers": 1,
+    "imports": 2
+  },
+  {
+    "id": "django/views/generic.py",
+    "label": "generic.py",
+    "parent": "django/views",
+    "importers": 3,
+    "imports": 5
+  },
+  {
+    "id": "django/utils/feedgenerator.py",
+    "label": "feedgenerator.py",
+    "parent": "django/utils",
+    "importers": 2,
+    "imports": 3
+  },
+  {
+    "id": "django/contrib/auth/migrations/0003_alter_user_email_max_length.py",
+    "label": "0003_alter_user_email_max_length.py",
+    "parent": "django/contrib/auth/migrations",
+    "importers": 0,
+    "imports": 2
+  },
+  {
+    "id": "django/conf/locale/ht.py",
+    "label": "ht.py",
+    "parent": "django/conf/locale",
+    "importers": 0,
+    "imports": 0
+  },
+  {
+    "id": "django/contrib/postgres/aggregates/mixins.py",
+    "label": "mixins.py",
+    "parent": "django/contrib/postgres/aggregates",
+    "importers": 0,
+    "imports": 1
+  },
+  {
+    "id": "django/contrib/gis/geos/prototypes/topology.py",
+    "label": "topology.py",
+    "parent": "django/contrib/gis/geos/prototypes",
+    "importers": 1,
+    "imports": 3
+  }
+]
